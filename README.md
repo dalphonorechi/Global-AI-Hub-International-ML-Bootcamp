@@ -1,6 +1,6 @@
 This is a week long project that was for the Global AI Hub ML Bootcamp.
 
-It entails developing an end-to-end data science application using the in [dataset](/insurance.csv). The aim of the project is to estimate the approximate cost of a person's health insurance based on the given variables.
+It entails developing an end-to-end data science application using this [dataset](/insurance.csv). The aim of the project is to estimate the approximate cost of a person's health insurance based on the given variables.
 
 * age: age of primary beneficiary 
 * sex: insurance contractor gender, female, male 
