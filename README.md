@@ -1,4 +1,4 @@
-I participate in the month long Global AI Hub ML Bootcamp.
+I participated in the month long Global AI Hub ML Bootcamp.
 
 This Repo contains Notebooks for:
 
