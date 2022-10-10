@@ -10,6 +10,9 @@ This Repo contains Notebooks for:
 This is a week long competion that was for the Global AI Hub ML Bootcamp and Dphi.
 It was part of the Python for Machine Learning International Bootcamp by Global AI Hub.
 
+I was number 1 in the [public leaderboard](https://dphi.tech/challenges/299/leaderboard/public/). 
+I was number 3 in the [private leaderboard](https://dphi.tech/challenges/299/leaderboard/private/).
+
 **About the data**
 
 * [Train](/longevity_train.csv).
